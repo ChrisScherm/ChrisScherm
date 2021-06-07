@@ -1,6 +1,6 @@
 ## Hello, my name is Christopher Scherm
 - I’m a student a De Anza College
-- I’m studying cyber security and software developement
+- I’m studying cyber security and software development
 - I’m actively looking for programming internships
 - You can reach me at chrisscherm@yahoo.com
 
